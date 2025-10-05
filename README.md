@@ -6,7 +6,7 @@ LOD mod for Bomb Rush Cyberfunk on PC, to vastly increase NPC and clutter draw d
 ## Background
 The mod consists of two DLLs:
 - [x] A BepInEx 5.4.21.0 plugin to force lodBias to 15,000 (so textures are always max quality, and clutter like tables/chairs/fences are never culled based on distance from the player)
-- [x] A modified Assembly-CSharp.dll that sets StreetLifeCluster.deactivateDistance to 300 (stock is 63) and distanceOptimize to false (so NPCs render 4.75x as far from the player)
+- [x] A modified Assembly-CSharp.dll that sets StreetLifeCluster.deactivateDistance to 2000 (stock is 63) and distanceOptimize to false (so NPCs render 32x as far from the player)
 
 ## Installation
 
