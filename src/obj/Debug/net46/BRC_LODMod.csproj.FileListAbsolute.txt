@@ -1,0 +1,10 @@
+C:\Users\Mackie\MyFirstPlugin\bin\Debug\net46\BRC_LODMod.dll
+C:\Users\Mackie\MyFirstPlugin\bin\Debug\net46\BRC_LODMod.pdb
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.csproj.AssemblyReference.cache
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\MyPluginInfo.cs
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.AssemblyInfoInputs.cache
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.AssemblyInfo.cs
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.csproj.CoreCompileInputs.cache
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.dll
+C:\Users\Mackie\MyFirstPlugin\obj\Debug\net46\BRC_LODMod.pdb

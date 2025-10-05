@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ccw8HPZl9SFX6Jaw8GxG0/iwZLC1RYjpnrwVQx0Q/YKy1yHBS8S3rLI3PexwTbCDv75tXrv+Hzi0/OuJ5Fh7/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mackie\\MyFirstPlugin\\BRC_LODMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mackie\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.2\\microsoft.netframework.referenceassemblies.net46.1.0.2.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Mackie\\.nuget\\packages\\unityengine.modules\\4.0.0\\unityengine.modules.4.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BRC_LODMod depends on UnityEngine.Modules (>= 3.20.5732503) but UnityEngine.Modules 3.20.5732503 was not found. An approximate best match of UnityEngine.Modules 4.0.0 was resolved.",
+      "libraryId": "UnityEngine.Modules",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}
