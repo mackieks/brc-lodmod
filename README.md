@@ -11,5 +11,5 @@ The mod consists of two DLLs:
 ## Installation
 
 1. Install [BepInEx 5.4.21.0](https://thunderstore.io/c/bomb-rush-cyberfunk/p/BepInEx/BepInExPack/)
-2. Extract BombRushCyberfunk.zip from Releases into your install folder and replace files when asked (note: the mod ships with a backup of the original Assembly-CSharp.dll)
+2. Extract BombRushCyberfunk.zip from [Releases](https://github.com/mackieks/brc-lodmod/releases) into your install folder and replace files when asked (note: the mod ships with a backup of the original Assembly-CSharp.dll)
 4. **Important:** don't edit the video settings from the in-game menu! Doing so will reset lodBias and deactivate the mod. I might fix this eventually.
