@@ -1,7 +1,7 @@
 # brc_lodmod
 LOD mod for Bomb Rush Cyberfunk on PC, to vastly increase NPC and clutter draw distance
 
-
+<img src=https://raw.githubusercontent.com/mackieks/brc-lodmod/refs/heads/main/lodmod.jpg>
 
 ## Background
 The mod consists of two DLLs:
