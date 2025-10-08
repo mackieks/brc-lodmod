@@ -15,7 +15,7 @@ The mod consists of:
         - Stubs the functions that disable NPC clusters when in combat 
         - Sets `Reptile.StreetLifeCluster.hideFromWantedStar = -1;`
  
-The FPS hit varies depending on level. In areas with lots of NPCs that are usually culled, like Brink Terminal, FPS is halved on my rig from 480 to ~200.
+The result is a game world that feels much more vibrant and alive. The FPS hit varies depending on level. In areas with lots of NPCs that are usually culled, like Brink Terminal, FPS is halved on my rig from 480 to ~200.
 
 <img width="1280px" src=https://raw.githubusercontent.com/mackieks/brc-lodmod/refs/heads/main/lodmod.jpg>
 
