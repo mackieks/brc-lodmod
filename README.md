@@ -12,7 +12,8 @@ The mod consists of:
         - this eliminates virtually all pop-in during normal gameplay
         - Brink Terminal (Stage.tower) has some unique chunk loading behavior and is kept at the stock 0.5x value to avoid graphical glitches
     - forces NPCs to stay visible at all times, even during police chases
-        - `Reptile.StreetLifeCluster.hideFromWantedStar = -1;`
+        - Stubs the functions that disable NPC clusters when in combat 
+        - Sets `Reptile.StreetLifeCluster.hideFromWantedStar = -1;`
  
 The FPS hit varies depending on level. In areas with lots of NPCs that are usually culled, like Brink Terminal, FPS is halved on my rig from 480 to ~200.
 
